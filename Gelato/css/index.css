@@ -1,0 +1,359 @@
+.navbar
+{
+	width:8vw;
+	height:8vh;
+}
+.nav-link
+{
+	color:#000;
+	font-family: DIN Neuzeit Grotesk;
+	font-size: 2vw;
+}
+.nav-link:hover
+{
+	color:#C66;
+}
+.menubutton
+{
+	font-size: 2.2vw !important;
+	color: #000;
+}
+.menubutton:hover
+{
+	color: #C66;
+}
+.icon
+{
+	color:#000;	
+}
+.icon:hover
+{
+	color: #FFF;
+}
+.icon-carousel
+{
+	font-size:4.5vw !important;
+	color: #6F3 !important;
+}
+.icon-close
+{
+	color:#600;
+	font-size:2.5vw !important;
+	margin-top: 0.2vw;
+}
+.navbar-toggler:hover
+{
+	background-color: #CF9;
+}
+	
+#section1
+{
+	height: 100vh;
+	width: 100vw;
+	background-color: #F9DB79; 
+	background-image: url(../images/background.jpg);
+	background-repeat: no-repeat;
+	background-size:  auto 80%;
+    -moz-background-size:contain;
+	background-position: 51%;
+ 	background-attachment: fixed;
+}
+.gelato
+{
+	font-family: belinda ;
+	font-size:2.2vw;
+	color: #000;
+	padding-top: 0.5vw;
+	position:fixed;
+	margin-left:45vw;
+}
+.social
+{
+	font-size:2.2vw;
+	position:fixed;
+	margin-left:72vw;
+	padding-top:0.5vw;
+}
+.s1p2
+{
+	font-family: Lulo Clean;
+	font-size:2.5vw;
+	color: #FFF;
+	padding-top : 15%; 
+	text-align:center;
+
+}
+.ice-cream
+{
+	font-family: Lulo clean;
+	font-size:8.5vw;
+	color: #FFF;
+	text-align:center;
+	margin-top: -4%;	
+}
+#section2
+{ 
+width: 100vw;
+height: 100vh;
+
+}
+.section2-1
+{
+height:100vh;
+width: 50vw;
+padding-top:12vw;
+
+}
+.s2p1
+{
+	color: #903 !important ;
+	font-family: Lulo Clean ;
+	font-size: 2.8vw;
+	text-align: center;
+	padding-top : 20%;
+}
+.s2p2
+{
+	color: #933 !important ;
+	font-family:  belinda;
+	font-size: 2.4vw;
+	text-align: center;
+	margin-top : -4%;
+	
+}
+.s2p3
+{ 
+	color: #933;
+	font-family: DIN Neuzeit Grotesk;
+	text-align: center;
+	font-size : 2.5vw;
+	padding-left;
+	}
+.hr1
+{
+	border-color: #900;
+	border-style:groove;
+	border-width:thin;
+	width:28vw;
+	margin-top : -2%;
+}
+.s2btn1
+{
+	padding-left: 43%;
+	font-family:DIN Neuzeit Grotesk;	
+}
+
+.btns2b1
+{
+	padding : 0.15vw 2.5vw;
+	font-size: 2.0vw;
+	background-color:transparent;
+	color: #000;
+	cursor: pointer;
+	border-color:#900;
+	border-style:ridge;
+}
+.btns2b1:hover {
+	background-color: #999 ;
+                }
+ 
+#section3
+{ 
+	height: 100vh; 
+	width:100vw;
+	background-color: #069;
+	background-image: url(../images/s3-dessert.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+    -moz-background-size:cover;
+	background-position:center center;
+ 	background-attachment: fixed;
+}
+.s3p1
+{
+	font-family:Lulo Clean;
+	font-size: 4.5vw;
+	color: #666 ;
+	padding-top: 8vw;
+	text-align:center;
+}
+.s3p2
+{
+	font-family:Lulo Clean;
+	font-size: 8.5vw;
+	color: #666;
+	text-align:center;
+}
+.btns3
+{
+	padding: 1.0vw 5.5vw ;
+	font-family: Lulo Clean;
+	text-align:center;
+}
+.btns3b1
+{
+	padding: 0.15vw 2.5vw ;
+	font-size: 1.8vw;
+	background-color:transparent;
+	color: #666 ;
+	cursor: pointer;
+	border-color:#666;
+	border-style:ridge;
+}
+.btns3b1:hover {
+	background-color: #CCC;
+                }
+#section4
+{
+	height: 50vh;
+	width: 100vw;
+	background-color: #CFC;
+} 
+.section4-1
+{ 
+width: 100vw;
+height: 50vh;
+background-color: #F06;
+}
+.section4-2
+{
+width: 100vw;
+height: 50vh;
+background-color: #000;
+}
+.carousel slide
+{
+	background-color:transparent !important;}
+.imgContainer{
+	width: 25vw;
+	height: 50vh;
+	float:left;  
+}
+
+.s4p1
+{
+	font-size: 2.0vw;
+	font-family: DIN Neuzeit Grotesk;
+	color: #FFF;
+	padding-top:3vw;
+	padding-left:13vw;
+	margin-right: -1.8vw;
+	
+}
+
+.s4p2
+{
+	font-size: 1.4vw;
+	font-family: DIN Neuzeit Grotesk;
+	color: #FFF;
+	margin-left:12vw;
+	margin-right:-4.5vw;
+	float:left;		 
+}
+.s4p3
+{
+	font-size: 1.4vw;
+	font-family: DIN Neuzeit Grotesk;
+	color: #FFF;
+	margin-left:13.5vw;
+	margin-right:-7.5vw;
+	float:left;		 
+}
+.s4input
+{
+	font-size: 1.5vw !important;
+	font-family: DIN Neuzeit Grotesk;
+	color: #930;
+	width: 20vw;
+	margin-left: 17.1vw;
+}
+.btns4
+{
+	padding: 0.5vw 7.7vw ;
+	font-family: DIN Neuzeit Grotesk;
+	font-size: 1.2vw;
+	margin-top :1vw;
+	margin-left: 17.1vw;
+	text-align:center;
+	
+}
+.btns4b1
+{
+	background-color: transparent;
+	color: #FFF;
+	border: 0.1vw ;
+	cursor: pointer;
+	border-color: skyblue;
+	border-style: ridge!important;
+}
+.btns4b1:hover {
+	background-color: #CCC;
+                }
+.img2
+{
+	width: 30%;
+	height:auto;
+}
+@font-face 
+{
+	font-family: Lulo Clean;
+	src:url(../fonts/Lulo%20Clean%20One%20Bold.otf);
+	}
+
+@font-face
+{	
+	font-family: Clicker script;
+	src:url(../fonts/ClickerScript-Regular.ttf);
+}
+
+@font-face	
+{
+	font-family: DIN Neuzeit Grotesk;
+	src: url(../fonts/DIN%20Neuzeit%20Grotesk%20Bold.otf);
+}
+
+@font-face	
+{
+	font-family: belinda;
+	src: url(../fonts/belinda.otf);
+}
+@font-face	
+{
+	font-family:Atma;
+	src:url(../fonts/Atma-Regular.ttf);
+}
+
+.model-Custom
+{
+	height:25vh !important;
+	width:30vw !important;
+	color:#933;
+	font-size: 2.5vw !important;
+	font-family: Clicker script;
+	font-weight:bolder;
+	text-align:justify;
+	margin-left: 2.2vw;
+	margin-top:1.5vw;
+
+}
+.modal-title
+{
+	color:#933;
+	font-size: 2.5vw !important;
+	font-family: DIN Neuzeit Grotesk ;
+	font-weight:bolder;
+	text-align:justify;
+	padding-left: 1vw;
+}
+.modal-content
+{
+	background-color: #CFC !important;
+}
+.btn-info
+{
+	font-family:DIN Neuzeit Grotesk;
+	font-size : 1.5vw !important;
+	background-color: #933 !important;
+	color:#FFF!important;
+	padding: 0.15vw 2vw !important;
+}

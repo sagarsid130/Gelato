@@ -1,0 +1,73 @@
+.menu
+{
+	background-color: #CFF;
+	width: 100vw;
+	height: 50vh;
+}
+.m1p1
+{
+	font-family: Lulo Clean;
+	font-size:2.5vw;
+	text-align:center;
+	padding-top: 3vw;
+	color: #FFF;
+}
+.m1p2
+{
+	font-family: Lulo clean;
+	font-size:8.5vw;
+	color: #FFF;
+	text-align:center;
+	margin-top: -4%;
+
+	}
+
+#Flavors
+{
+	font-family: Lulo Clean;
+	font-size:1.5vw;
+	color: #903;
+	 padding-top: 3vw;
+	text-align:center;
+}
+.hr2
+{
+	border-color: #900;
+	border-style:groove;
+	border-width:thin;
+	width:23.2vw;
+	margin-top : ;
+}
+.imghead
+{
+	font-family: Lulo Clean;
+	font-size:1.0vw;
+	color: #903;
+	padding-top:3vw;
+	padding-left:15vw;
+	display:inline;
+}
+.imgbottom
+{
+	font-family: Lulo Clean;
+	font-size:1.0vw;
+	color: #903;
+	padding-left:16.5vw;
+	margin-right: 5vw;
+	display:inline;
+}
+	
+#flavorimages
+{
+	width: 25vw;
+	height: 20vw;
+	margin-left: 8vw;
+	margin-top: 2vw;
+	margin-right: -4vw;
+	margin-bottom: 2vw;
+}
+.rs
+{
+	font-size:1.0vw !important;
+	font-family: Lulo Clean;
+}
